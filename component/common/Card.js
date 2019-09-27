@@ -25,7 +25,7 @@ const Styles=StyleSheet.create({
         elevation:1,
         marginLeft: 5,
         marginRight:5,
-        marginTop:70,
-
+        marginTop:50
+     
     }
 })
